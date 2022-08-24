@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+.header {
+    text-shadow: 2px 2px 5px red;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+  }
+.border{
+    border: 1px solid red
+}
+#id1{
+    color: chartreuse;
+    font-style: monospace;
+    font-size: medium;
+}
+.div{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+  a:link{
+    background-color: black;
+    color: chartreuse;
+    border: 2px solid green;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block
+  }
+  a:visited{
+    background-color: black;
+    color: chartreuse;
+    border: 2px solid green;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block
+  }
+a:hover{
+    background-color: chartreuse;
+    color: black;
+    border: 2px solid black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
