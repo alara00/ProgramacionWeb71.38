@@ -314,3 +314,7 @@ iframe{
     height: calc(100vh - 150px);
 }
 
+a:link, a:visited {
+    color: white;
+    text-decoration: none;
+  }
